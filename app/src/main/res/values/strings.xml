@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToggleNightLight</string>
+    <string name="text">Aplikasi untuk mengaktifkan light mode dan night mode,
+    dengan cara mengklik toggle bar dibagian pojok kanan atas.</string>
+</resources>
