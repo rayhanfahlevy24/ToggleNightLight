@@ -49,9 +49,13 @@
         <androidx.appcompat.widget.AppCompatButton
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:text="Apply"
+            android:text="PALKOR"
             style="@style/BUTTON"
             android:layout_margin="8dp"/>
+
+        <Button
+            android:layout_width=""
+            android:layout_height=""
 
     </LinearLayout>
 
